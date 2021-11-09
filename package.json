@@ -1,0 +1,18 @@
+{
+  "name": "express-typeorm-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yoophi/express-typeorm-jest.git",
+  "author": "Pyunghyuk Yoo <yoophi@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "jest": "^27.3.1",
+    "ts-jest": "^27.0.7"
+  },
+  "dependencies": {
+    "pg": "^8.7.1",
+    "typeorm": "^0.2.38",
+    "typescript": "^4.4.4"
+  }
+}
